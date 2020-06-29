@@ -1,0 +1,46 @@
+{
+    "penyakit": [
+        {
+            "id": "2",
+            "nama": "Hawar Daun Bakteri",
+            "foto": "https://paktanidigital.com/artikel/wp-content/uploads/2019/03/Kenali-Penyakit-Hawar-pada-Padi-dan-Solusinya.jpg",
+            "jenis": "penyakit",
+            "deks": "Penyakit hawar daun ini merupakan bakteri yang tersebar luas dan dapat menurunkan hasil panen yang cukup signifikan. Penyakit ini menyerang saat kondisi musim hujan atau musim kemarau yang basah, terutama pada lahan sawah yang selalu tergenang dan kandungan pupuk N tinggi. Penyakit ini disebabkan bakteri Xanthomonas campestris pv oryzae.\r\nPenyakit ini menghasilkan dua gejala, yaitu kresek dan hawar. Kersek merupakan gejala yang terjadi pada tanaman yang sudah berumur 30 hari dari persemaian atau yang baru pindah. Daun-daun yang terserang akan berwarna hijau kelabu, melipat dan menggulung. Dalam keadaan parah mampu menyebabkan daun menggulung, layu, dan bias mati, mirip seperti tanaman yang terserang penggerak batang. Sementara hawar merupakan merupakan gejala yang paling umum pada tanaman yang telah mencapai fase tumbuh anakan hingga fase pemasakan.\r\nPengendalian penyakit hawa daun bisa dengan pengaturan air yang cukup. Hindari penggenangan air yang terus menerus maisalkan 1 hari digenangi dan 3 hari dikeringkan. Selain itu bisa dengan menggunakan pola tanam yang mempunyai sirkulasi udara yang lebih baik, seperti jajar legowo."
+        },
+        {
+            "id": "3",
+            "nama": "Busuk Batang",
+            "foto": "https://3.bp.blogspot.com/-Y54BD4iVgkE/UxHXYdcQEMI/AAAAAAAAAEw/KOfhti27uE8/s280/pt20.jpg",
+            "jenis": "penyakit",
+            "deks": "Busuk batang merupakan penyakit yang menginfeksi pada bagian tanaman bagian kanopi dan menyebabkan tanaman menjadi mudah rebah. Untuk cara mengamati penyakit ini bisa dengan membuka kanopi pertanaman terlebih dahulu. Oleh karena itu perlu diwaspadai bila terjadi rebah pada pertanaman, tanpa sebelumnya terjadi hujan dengan angin yang kencang.\r\nGejala awal berupa bercak berwarna kehitaman serta bentuknya tidak teratur pada sisi luar pelapah daun dan secara bertahap membesar. Akhirnya cendawan menembus batang padi yang kemudian menjadi lemah, dan akhirnya anakan akan mati. Akibat akhirnya tanaman menjadi rebah.\r\nPengendalian bisa dengan cara pengeringan petakan dan biarkan tanah hingga retak sebelum dialiri lagi. Di samping itu tunggul-tunggul padi sesudah panen harus dibakar atau didekomposisi."
+        },
+        {
+            "id": "4",
+            "nama": "Penyakit Tungro",
+            "foto": "https://gapoktansekarsari.files.wordpress.com/2016/07/4.png?w=640",
+            "jenis": "penyakit",
+            "deks": "Penyakit tungro berasal dari virus yang ditularkan oleh wereng hijau, yaitu Nephotettix impicticeps. Hama wereng bisa mengakibatkan tanaman padi terserang virus setelah tanaman terhisap oleh hama wereng. Gejala bis dilihat dengan perubahan tanaman menjadi kerdil, anakan berkurang, daun menguning dari pucuk sampai ke batang, malai kecil, tidak keluar sempurna, dan padi hampa. Pengendalian bisa dengan menanam padi tahan wereng seperti Kelara dan mengendalikan vektor virus tersebut.\r\n"
+        },
+        {
+            "id": "5",
+            "nama": "Penyakit Bercak Daun",
+            "foto": "https://2.bp.blogspot.com/-_o6wM7J0ICY/W4tcTHsP3bI/AAAAAAAAAns/BHzkmxaJqqAZRZwV8fUIaMt9Qsc7CyX4wCLcBGAs/s1600/Screenshot_58.png",
+            "jenis": "penyakit",
+            "deks": "Penyakit bercak daun disebabkan oleh serangan jamur Helmintosporium oryzae. Jamur ini menyerang tanaman padi dari biji yang baru kecambah, pelepah daun, malai, dan buah yang baru tumbuh. Serangan jamur ini mempunyai gejala seperti biji padi busuk saat berkecambah, dan kemudian mati, tanaman padi dewasa busuk dan kering, dan biji bercak-bercak tetapi tetap berisi. Pengendaliannya bisa dengan mencegah dengan perendaman benih menggunakan air hangat setelah dengan air dingin untuk mencegah tumbuhnya jamur.\r\n"
+        },
+        {
+            "id": "6",
+            "nama": " Penyakit Busuk Pelepah Daun",
+            "foto": "https://kabartani.com/wp-content/uploads/2017/01/Kabartani.com-busuk-pelepah-daun-padi-640x434.jpg",
+            "jenis": "penyakit",
+            "deks": "Penyakit busuk pelepah daun disebabkan oleh serangan jamur Rhizoctonia sp. Jamur ini menyerang daun dan pelepah daun yang sudah membentuk anakan tanaman padi. Hal ini akan akan mengakibatkan penurunan jumlah produksi dan kualitas hasil panen tanaman padi. Pengendaliannya anda bisa menanam tanaman padi yang tahan terhadap serangan penyakit ini.\r\n"
+        },
+        {
+            "id": "7",
+            "nama": "Penyakit Fusarium",
+            "foto": "https://www.kampustani.com/wp-content/uploads/2018/11/Pengendalian-Layu-Fusarium-Pada-Tanaman-Pisang.jpg",
+            "jenis": "penyakit",
+            "deks": "Penyakit fusarium ini disebabkan oleh jamur Fusarium moniliforme. Penyakit ini menyerang malai dan biji muda sehingga berubah menjadi kecoklatan, daun terkulai, dan akar membusuk. Pengendalian yang bisa dilakukan adalah dengan merenggangkan jarak tanam, seperti menerapkan pola tanam jajar legowo.\r\n"
+        }
+    ]
+}
